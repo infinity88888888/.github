@@ -9,3 +9,5 @@ INFINITY team currently offers two mining clients—both are highly optimized an
 |Platforms| macOS, Ubuntu, Windows| macOS, Ubuntu|
 | Optimisation | CPU-optimized | GPU-optimized |
 | Setup Difficulty | 🟢 Beginner-friendly | 🟡 Intermediate |
+
+Pick the one that suits you best, and start mining INFINITY today!
