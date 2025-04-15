@@ -1,11 +1,10 @@
-# How to mine Infinity
+# How to mine INFINITY?
 
-Currently we have two miners. Each miner is highly optimized and battle tested, but slightly differs in implementation.
-- [CPU miner](https://github.com/8finity-xyz/miner-cpu-go) - easy to run, can be ran at any computer
-- [GPU miner](https://github.com/8finity-xyz/miner-gpu-python) - need basic bash skills, can be ran at GPU computer
+INFINITY team currently offers two mining clients—both are highly optimized and battle-tested, with slightly different setups.- [CPU miner](https://github.com/8finity-xyz/miner-cpu-go) - simple to run, works on nearly any computer
+- [GPU miner](https://github.com/8finity-xyz/miner-gpu-python) - requires basic Bash skills and a machine with a GPU
 
 | | [CPU miner](https://github.com/8finity-xyz/miner-cpu-go) | [GPU miner](https://github.com/8finity-xyz/miner-gpu-python) |
 |--|--|--|
-|Platforms| Mac OS, Ubuntu, Windows|Mac OS, Ubuntu|
-| Optimisation | Optimised for CPU| Optimized for GPU|
-| Easy to run | ✅ | ❌ |
+|Platforms| macOS, Ubuntu, Windows| macOS, Ubuntu|
+| Optimisation | CPU-optimized | GPU-optimized |
+| Setup Difficulty | 🟢 Beginner-friendly | 🟡 Intermediate |
