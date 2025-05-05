@@ -1,3 +1,7 @@
+🚨 **Warning: This repository is archived and no longer maintained. The active repository is here → [8finity-xyz](https://github.com/8finity-xyz).**
+---------
+
+
 # How to mine INFINITY?
 
 INFINITY team currently offers two mining clients—both are highly optimized and battle-tested, with slightly different setups.
